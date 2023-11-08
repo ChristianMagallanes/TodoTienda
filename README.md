@@ -16,7 +16,7 @@ Gracias por visitar mi proyecto.
 
 
 
-![firefox_tUkag13pBW(1)](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/d7c10d2d-220a-4667-8fdb-58a4f6fbea7d)
+
 
 
 
