@@ -6,7 +6,7 @@ import Footer from "./components/Footer/Footer";
 import Home from "./components/Home/Home";
 import { CartProvider } from "./components/CartContext/CartContext";
 import Carrito from "./components/Carrito/Carrito";
-import Checkout from "./components/ChecKout/ChecKout";
+import Checkout from "./components/Checkout/ChecKout";
 
 function App() {
   return (
