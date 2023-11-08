@@ -1,0 +1,75 @@
+.tituloxd{
+  font-size: 40px;
+  font-family: "Poppins";
+  text-transform: uppercase;
+  padding: 50px;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    
+    
+}
+.producto {
+  display: flex;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    box-shadow: #000000a2 0px 10px 5px 1px;
+    width: 400px;
+  }
+  
+  .productos-container{
+  grid-column: 2/4;
+  grid-row: 1/2;
+  }
+  .item-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr  ;
+    grid-template-rows: 1fr ;
+    
+    
+  }
+  
+
+.producto-data{
+  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 5px;
+  height: 100%;
+  align-self: flex-end;
+}
+.product-img{
+    width: 100%;
+}
+.producto-titulo{
+    font-size: 22px;
+    font-family: 'Poppins';
+}
+.precio{
+  font-family: 'Poppins';
+}
+.categoria{
+  font-family: 'Poppins';
+}
+.producto-btn{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Poppins';
+  color: rgb(249, 249, 249);
+  box-shadow: #000000a9 0px 4px 10px 0px;
+  background: #5a0160;
+  padding: 4px;
+  width: 200px;
+  border-radius: 500px 0px 0px 500px;
+  transition: background .3s;
+}
+.producto-btn:hover{
+ background: red; 
+ transition: 0.3s;
+}

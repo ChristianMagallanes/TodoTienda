@@ -1,0 +1,45 @@
+
+.item-detallesc{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+.item-detalles{
+    padding: 25px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 900px;
+    box-shadow: #00000067 20px 15px 60px 1px;
+}
+.detalles-img{
+    height: 100%;
+    width: auto;
+}
+
+
+
+
+.detalles-titulo{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.detalles-descripcion{
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-size: "Poppins";
+    text-transform: uppercase;
+}
+.detalles-precio{
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: red;
+    border-bottom: 2px solid #000;
+}
+.detalles-categoria{
+    margin-bottom: 10px;
+    font-size: 24px;
+}

@@ -1,0 +1,15 @@
+.item-count{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.count-btn{
+    padding:0px 20px;
+    border-radius: 10px;
+}
+.count-cantidad{
+    font-family: Poppins;
+    font-size: 30px;
+    margin: 20px 20px;
+}

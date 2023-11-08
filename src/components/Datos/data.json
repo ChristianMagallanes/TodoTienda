@@ -1,0 +1,158 @@
+[
+    {
+      "id": 1,
+      "titulo": "Intel i7",
+      "descripcion": "Procesador Intel i7, 16 GB de RAM, Tarjeta gráfica NVIDIA GeForce RTX 3080, SSD de 1 TB, HDD de 2 TB.",
+      "categoria": "pc",
+      "imagen": "https://electrogamer.com.ar/wp-content/uploads/2021/05/1058-producto-prime-4826.jpg",
+      "precio": 1500,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "titulo": "AMD Ryzen 9 ",
+      "descripcion": "Procesador AMD Ryzen 9 5900X, 32 GB de RAM, Tarjeta gráfica NVIDIA GeForce RTX 3090, SSD de 1 TB, HDD de 4 TB.",
+      "categoria": "pc",
+      "imagen": "https://www.pccompu.com.uy/imgs/productos/productos34_48735.jpg",
+      "precio": 1500,
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "titulo": "Intel i9",
+      "descripcion": "Procesador Intel i9, 64 GB de RAM, Tarjeta gráfica NVIDIA GeForce RTX 3070, SSD de 2 TB, HDD de 3 TB.",
+      "categoria": "pc",
+      "imagen": "https://www.pccompu.com.uy/imgs/productos/productos34_44132.jpg",
+      "precio": 1500,
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "titulo": "AMD Ryzen 7",
+      "descripcion": "Procesador AMD Ryzen 7 5800X, 32 GB de RAM, Tarjeta gráfica NVIDIA GeForce RTX 3060, SSD de 500 GB, HDD de 2 TB.",
+      "categoria": "pc",
+      "imagen": "https://m.media-amazon.com/images/I/71k7C0IhbeL.jpg",
+      "precio": 1500,
+      "stock": 10
+    },
+    
+  
+    {
+        "id": 5,
+        "titulo": "audifonos",
+        "descripcion": "Sed accumsan felis.",
+        "categoria": "audifonos",
+        "imagen": "https://www.pccompu.com.uy/imgs/productos/productos34_42242.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "audifonos 2",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "audifonos",
+        "imagen": "https://www.emmesistemas.com/imgs/productos/productos34_1767.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "audifonos3",
+        "descripcion": "Morbi vel lectus in quam fringilla rhoncus.",
+        "categoria": "audifonos",
+        "imagen": "https://www.pccompu.com.uy/imgs/productos/productos34_49506.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "audifonos 4",
+        "descripcion": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+        "categoria": "audifonos",
+        "imagen": "https://www.radioshack.com.mx/medias/91582.jpg-515ftw?context=bWFzdGVyfHJvb3R8NDc3NzJ8aW1hZ2UvanBlZ3xoZTAvaDk0LzkwMTQ3MDUxNjAyMjIvOTE1ODIuanBnXzUxNWZ0d3xiMmJhOTQ0ZTU3ZmQ3YjQ5OTU0NjgwNDM3MDFkMjdiMjdkMDUwODAwZjE1NWFiZGFkODhmYWIxYzg2YWNlODFl",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "procesador i7",
+        "descripcion": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "categoria": "componentes",
+        "imagen": "https://www.pccompu.com.uy/imgs/productos/productos34_42823.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "ryzen 7",
+        "descripcion": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "categoria": "componentes",
+        "imagen": "https://www.pccompu.com.uy/imgs/productos/productos34_47619.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "GTX 1050ti",
+        "descripcion": "Mauris sit amet eros.",
+        "categoria": "componentes",
+        "imagen": "https://i.blogs.es/de1813/0c743d40-c718-4cdb-bf06-a70b1823d79e/450_1000.jpeg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "RTX 4060ti",
+        "descripcion": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "categoria": "componentes",
+        "imagen": "https://www.pccompu.com.uy/imgs/productos/productos34_50418.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "memoria ram",
+        "descripcion": "Aenean sit amet justo.",
+        "categoria": "componentes",
+        "imagen": "https://www.cqnetcr.com/110332-large_default/memoria-ram-zadak-spark-rgb-ddr4-8gb-3200mhz.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "memoria ram 2",
+        "descripcion": "In blandit ultrices enim.",
+        "categoria": "componentes",
+        "imagen": "https://down-th.img.susercontent.com/file/dc2389fb06d9e767d6796abdb7e1ca57",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "disco duro",
+        "descripcion": "Nullam varius.",
+        "categoria": "componentes",
+        "imagen": "https://www.neotec.com.uy/imgs/productos/productos3_210166.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "disco duro 2",
+        "descripcion": "Cras non velit nec nisi vulputate nonummy.",
+        "categoria": "componentes",
+        "imagen": "https://ae01.alicdn.com/kf/Sa712913b645e4755a639b07fb1aedc37m/ADATA-XPG-GAMMIX-S50-Lite-M-2-2280-SSD-2TB-PCIe-Gen4x4-M-2-unidad-de.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "disco duro 3",
+        "descripcion": "Nulla tempus.",
+        "categoria": "componentes",
+        "imagen": "https://www.hardpc.com.uy/imgs/productos/productos34_4421.jpg",
+        "precio": 1500,
+        "stock": 10
+    }
+   
+]
