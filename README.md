@@ -1,7 +1,8 @@
 ## Proyecto de comercio electrónico
 
 Header
-![IChZk8EJD5-min](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/43b77883-6ca2-4d3a-a207-c30d70994ace)
+![firefox_8eGH0R93Oj](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/f910ad4a-50b9-4f64-a43f-e1c8d3b07d3b)
+
 
 Filtro
 ![firefox_p0BQg9BjKD](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/35ccbebb-f2e4-4f19-b48e-61e5e05805c7)
