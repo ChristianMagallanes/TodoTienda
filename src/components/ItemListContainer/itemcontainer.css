@@ -25,20 +25,6 @@
     box-shadow: #000000a2 0px 10px 5px 1px;
     width: 400px;
   }
-  
-  .productos-container{
-  grid-column: 2/4;
-  grid-row: 1/2;
-  }
-  .item-container{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr  ;
-    grid-template-rows: 1fr ;
-    
-    
-  }
-  
-
 .producto-data{
   display: block;
   display: flex;
