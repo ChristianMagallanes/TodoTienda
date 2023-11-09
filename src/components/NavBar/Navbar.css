@@ -3,7 +3,7 @@
     position: sticky;
     z-index: 1;
     top: 0;
-    background-color: #fff;
+    background-color: #120d1e;
     
 }
 .navbar{
@@ -21,17 +21,20 @@
     margin-left: 20px;
     cursor: pointer;
     
-    height: 50px;
+    height: 80px;
     
     
 }
 .Carrito-logo{
-    color: #000000;
+    color: #ffffff;
     font-size: 40px;
     margin-right: 20px;
     cursor: pointer;
-    text-decoration: none;
-    
+    text-decoration: none; 
+}
+.cart:hover{
+  color:#eb5915 ; 
+    transition: .2s; 
 }
 .navbar-categorias{
     height: 100%;
@@ -49,18 +52,20 @@
   margin-right: 50px;
 }
 .cart{
-  color: #000;
+  color: #ffffff;
   font-size: 30px;
+  transition: .4s; 
 }
 .cart-cantidad{
-  color: #000;
+  color: #ffffff;
   font-family: Poppins;
+  margin-left: 10px;
 }
 
 .categoria-item {
     text-decoration: none;
     
-    color: #000000;
+    color: #ffffff;
     background-color: #ffffff00;
     cursor: pointer;
     border: none;

@@ -3,6 +3,7 @@ import { CartContext } from "../CartContext/CartContext";
 import { collection, addDoc } from "firebase/firestore";
 import { useForm } from "react-hook-form";
 import { db } from "../FireBase/ConfigFireBase";
+import "./Chekout.css";
 
 const Chekout = () => {
   const [pedidoId, setPedidoId] = useState("");
@@ -29,28 +30,28 @@ const Chekout = () => {
 
   if (pedidoId) {
     return (
-      <div className="container">
-        <h1 className="main-title">Muchas gracias por tu compra</h1>
-        <p>Tu número de pedido es: {pedidoId}</p>
+      <div className="container-pago">
+        <h1 className="titulo-pago">Muchas gracias por tu compra</h1>
+        <p className="nro-orden">Tu número de pedido es: {pedidoId}</p>
       </div>
     );
   }
 
   return (
-    <div className="container">
-      <h1 className="main-title">Finalizar compra</h1>
+    <div className="chekout-container">
       <form className="formulario" onSubmit={handleSubmit(comprar)}>
-        <input
+      <h1 className="main-title">Finalizar compra</h1>
+        <input className="form-input"
           type="text"
           placeholder="Ingresá tu nombre"
           {...register("nombre")}
         />
-        <input
+        <input className="form-input"
           type="email"
           placeholder="Ingresá tu e-mail"
           {...register("email")}
         />
-        <input
+        <input className="form-input"
           type="phone"
           placeholder="Ingresá tu teléfono"
           {...register("telefono")}

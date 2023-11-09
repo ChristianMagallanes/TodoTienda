@@ -13,7 +13,13 @@ const ItemListContainer = () => {
 
  
   useEffect(() => {
-
+    
+      // Verificamos si la categoría existe y actualizamos el título en consecuencia
+      if (categoria) {
+        setTitulo(`${categoria}`);
+      } else {
+        setTitulo("Productos");
+      }
     const productosRef = collection(db, "productos");
     const que = categoria ? query(productosRef, where("categoria", "==", categoria)) : productosRef;
 

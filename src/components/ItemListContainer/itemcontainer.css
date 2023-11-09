@@ -1,8 +1,14 @@
 .tituloxd{
-  font-size: 40px;
+  font-size: 80px;
   font-family: "Poppins";
-  text-transform: uppercase;
-  padding: 50px;
+  border-bottom: solid 10px #ffffff;
+  padding: 20px;
+  margin-bottom: 50px;
+  
+}
+.item-container{
+  background-color: rgba(222, 219, 230, 0.438);
+  height: 100vh;
 }
 .items{
     display: flex;
@@ -63,13 +69,16 @@
   font-family: 'Poppins';
   color: rgb(249, 249, 249);
   box-shadow: #000000a9 0px 4px 10px 0px;
-  background: #5a0160;
+  background: #120d1e;
   padding: 4px;
   width: 200px;
   border-radius: 500px 0px 0px 500px;
   transition: background .3s;
 }
 .producto-btn:hover{
- background: red; 
- transition: 0.3s;
+  background:#ffffff ;
+  transition: .4s;
+  color: #000;
+  border-radius: 0;
+  box-shadow: none;
 }

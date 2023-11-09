@@ -7,9 +7,34 @@
 .count-btn{
     padding:0px 20px;
     border-radius: 10px;
+    background: #f3eae8;
+    border: none;
+    box-shadow: 5px 2px 0px 0px;
+    
+}
+.count-btn-2:hover{
+background:#ffffff ;
+transition: .4s;
+color: #000;
+}
+.count-btn-2{
+    padding:0px 20px;
+    border-radius: 10px;
+    background: #120d1e;
+    color: #fff;
+    border: none;
+    box-shadow: rgba(137, 123, 123, 0.484) 5px 2px 10px 0px;
+    transition: .4s;
 }
 .count-cantidad{
     font-family: Poppins;
     font-size: 30px;
     margin: 20px 20px;
+}
+.agregar-al-carrito{
+    padding: 5px;
+    border-radius: 10px;
+    background: #f3eae8;
+    border: none;
+    box-shadow: 5px 2px 0px 0px;
 }

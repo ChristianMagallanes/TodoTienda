@@ -1,12 +1,33 @@
-footer{
+.footer{
     display: flex;
     align-items: center;
-    justify-content: center;
-    height: 200px;
-    background-color: #f3f1f1;
-    margin-top: 30px;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #120d1e;
+   
 }
 .footer-titulo-parrafo{
-    color: #000000;
+    color: #ffffff;
     width: 300px;
+}
+
+.footer-redes-titulo{
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.redes-footer{
+    color: #fff;
+    color: #fff;
+    font-size: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer-link{
+    cursor: pointer;
+    transition: .4s; 
+}
+.footer-link:hover{
+    color:#eb5915 ; 
+    transition: .2s; 
 }
