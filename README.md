@@ -1,6 +1,16 @@
 ## Proyecto de comercio electrónico
 
+Header
+![IChZk8EJD5-min](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/43b77883-6ca2-4d3a-a207-c30d70994ace)
 
+Filtro
+![firefox_p0BQg9BjKD](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/35ccbebb-f2e4-4f19-b48e-61e5e05805c7)
+
+Detalles del producto
+![firefox_lXaS5J7yTE](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/9f0af7a0-a912-482c-b35e-8c0f7617cf63)
+
+Chekout
+![firefox_yiaAaqAcYt](https://github.com/ChristianMagallanes/TodoTienda/assets/133132721/a3fa855a-358a-4737-9568-d87d99a32605)
 
 
 Este proyecto es una aplicación de comercio electrónico construida con React y Vite. Utiliza dos plugins oficiales de Vite para React: [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) y [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc).
